@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.owen282000.lifedashboard",
+    "sha256_cert_fingerprints": [
+      "27:14:06:D5:BA:F7:90:50:6E:91:4D:82:AC:A2:53:33:36:AE:08:3D:01:C7:9F:BA:CB:00:15:F4:2E:4F:F6:1F"
+    ]
+  }
+}]
