@@ -14,3 +14,5 @@ App Store Connect and the app's About screen link to. Keep it in step with the p
 in the app and the Privacy section of the iOS repository's README. It is not under
 `/life-dashboard/`, because a project site of the `life-dashboard` repository would take over
 that path.
+
+The website of Life Dashboard lives at [owen282000.com/life-dashboard](https://owen282000.com/life-dashboard/), from the `owen282000.com` repository. This repository keeps only what must stay at this address: the App Links file, the iOS privacy policy, and a `robots.txt` that keeps the app repository's raw docs and brand renders out of search results.

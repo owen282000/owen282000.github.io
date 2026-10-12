@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /life-dashboard-companion-app/brand/
+Disallow: /*.md$
+Allow: /
